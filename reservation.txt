@@ -1,0 +1,3 @@
+598175,Meghana,18,F,12666,General,2A,408,Kanyakumari,Rameswaram,09:00,0,0,3,
+385521,Anju,20,M,12666,Tatkal,2A,408,Kanyakumari,Rameswaram,09:00,0,0,2,
+381755,Renu,2,F,12666,Tatkal,3A,357,Kanyakumari,Rameswaram,09:00,0,0,1,
